@@ -1,0 +1,45 @@
+body {
+    overflow-y: scroll;
+}
+
+h2 {
+    color: #e03e35;
+    font-size: 2.2rem;
+}
+
+p {
+    color: #444444;
+}
+
+#container {
+    display: none;
+    top: 3rem;
+}
+
+#wrapper {
+    height: 160vh;
+}
+
+#img_door {
+    position: absolute;
+    top: 0;
+    width: 67.7%;
+}
+
+#img_welcome {
+    left: 0;
+    top: 100vh;
+}
+
+#text-wrapper {
+    opacity: 1;
+}
+
+.spacer-container {
+    display: none;
+}
+
+.spacer {
+    height: 500px;
+    background-color: black;
+}
